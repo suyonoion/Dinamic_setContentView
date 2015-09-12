@@ -11,5 +11,6 @@
         android:background="#00000000"
         android:gravity="left|center"
         android:textStyle="italic"
-        android:paddingLeft="7dp"/>
+        android:paddingLeft="7dp"
+        android:layout_weight="1" />
 </LinearLayout>
